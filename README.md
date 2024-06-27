@@ -1,4 +1,4 @@
-# Statistical Models of Top-$k$ Partial Orders
+# Statistical Models of Top-k Partial Orders
 
 Source code for the paper by Amel Awadelkarim and Johan Ugander.
 
